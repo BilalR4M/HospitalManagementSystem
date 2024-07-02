@@ -1,0 +1,11 @@
+# Eclipse specific files
+.metadata/
+.settings/
+.classpath
+.project
+
+# Build output
+build/
+
+# Libraries
+WebContent/WEB-INF/lib/
