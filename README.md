@@ -3,6 +3,18 @@
 ## Project Description: Hospital Management System
 The Hospital Management System is a comprehensive Java-based application designed to streamline and automate various administrative and medical processes within a hospital. Built using the Maven build automation tool, this project leverages a modular structure to ensure scalability, maintainability, and ease of integration.
 
+## Prerequisites
+Eclipse IDE for Enterprise Java and Web Developers
+Maven
+Apache Tomcat V9.0
+
+## Configuration
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+https://javatrainingschool.com/first-servlet-example/
+
+Here is a Snapshot of the web libraries 
+![image](https://github.com/BilalR4M/HospitalManagementSystem/assets/165455288/32b9d735-4b5c-479b-9d5b-bb57cdbc9765)
+
 ## Key Features:
 - Patient Management:
 
