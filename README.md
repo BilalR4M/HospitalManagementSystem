@@ -30,7 +30,8 @@ Assigning roles and responsibilities to staff members.
   - Front-End: **JSP, HTML, CSS, JavaScript**
   - Dependency Management: **Maven**
   - Version Control: **Git**
-  - Project Structure:
+    
+## Project Structure:
   - src: Contains the source code of the project, organized into packages such as controller, service, repository, model, and view.
   - WebContent: Contains the web resources including JSP files, HTML, CSS, and JavaScript files.
   - .settings: Configuration files for the development environment.
