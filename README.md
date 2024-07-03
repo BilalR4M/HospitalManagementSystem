@@ -13,6 +13,7 @@ https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
 https://javatrainingschool.com/first-servlet-example/
 
 Here is a Snapshot of the web libraries 
+
 ![image](https://github.com/BilalR4M/HospitalManagementSystem/assets/165455288/32b9d735-4b5c-479b-9d5b-bb57cdbc9765)
 
 ## Key Features:
