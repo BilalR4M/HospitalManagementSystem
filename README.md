@@ -87,7 +87,7 @@ Assigning roles and responsibilities to staff members.
   Copy code
   mvn spring-boot:run
   
-  ##Access the Application:
+  ## Access the Application:
   Open a web browser and go to http://localhost:8080.
   
 The Hospital Management System project provides a robust and scalable solution for managing hospital operations efficiently. Its modular design and use of industry-standard technologies make it a suitable choice for deployment in real-world hospital environments. Contributions and suggestions for improvements are welcome to enhance the system further.
