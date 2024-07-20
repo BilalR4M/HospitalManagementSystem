@@ -6,7 +6,7 @@ The Hospital Management System is a comprehensive Java-based application designe
 
 ## Prerequisites
 - Eclipse IDE for Enterprise Java and Web Developers
-- JDK 
+- JDK 17 or newer
 - Maven
 - Apache Tomcat V9.0
 - MySQL
