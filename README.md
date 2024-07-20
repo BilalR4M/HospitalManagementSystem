@@ -2,7 +2,7 @@
 Hospital Management System
 
 ## Project Description: Hospital Management System
-The Hospital Management System is a comprehensive Java-based application designed to streamline and automate various administrative and medical processes within a hospital. Built using the Maven build automation tool, this project leverages a modular structure to ensure scalability, maintainability, and ease of integration.
+Hi care is a comprehensive Java-based application designed to streamline and automate various administrative and medical processes within a hospital. Built using the Maven build automation tool, this project leverages a modular structure to ensure scalability, maintainability, and ease of integration.
 
 ## Prerequisites
 - Eclipse IDE for Enterprise Java and Web Developers
