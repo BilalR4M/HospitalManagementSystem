@@ -21,23 +21,20 @@ Here is a Snapshot of the web libraries
 
 ![image](https://github.com/BilalR4M/HospitalManagementSystem/assets/165455288/32b9d735-4b5c-479b-9d5b-bb57cdbc9765)
 
-## Key Features:
-- Patient Management:
+# Key Features:
 
 ## Registration and management of patient information.
 - Tracking patient visits and medical history.
 - Appointment scheduling and reminders.
 
-## Doctor Management:
-
-Management of doctor profiles and specializations.
-Scheduling and managing doctor appointments.
-Monitoring doctor availability and shifts.
+## Doctor Management
+- Management of doctor profiles and specializations.
+- Scheduling and managing doctor appointments.
+- Monitoring doctor availability and shifts.
 
 ## Staff Management:
-
-Management of hospital staff information.
-Assigning roles and responsibilities to staff members.
+- Management of hospital staff information.
+- Assigning roles and responsibilities to staff members.
 
 
 ## Technology Stack:
